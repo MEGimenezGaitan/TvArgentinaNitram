@@ -2,6 +2,5 @@
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png",TYC SPORTS
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
-#EXTINF:-1 group-title="Aire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1763130775~exp=1763137975~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=58593a0d339eb9d87ce5fab43fb68e426bcc9786224b27896ffeadbc494ece23
-
+#EXTINF:-1 group-title="Aire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png",TELEFE
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
