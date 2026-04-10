@@ -2,3 +2,5 @@
 
 #EXTINF:-1 type="stream" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png" group-title="Deportes", TYC SPORTS
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 type="stream" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="Deportes", TNTSPORT
+http://usuarios.club/usuarios/src5/TNTSports/agosto.m3u8
